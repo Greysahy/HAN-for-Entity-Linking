@@ -1,0 +1,181 @@
+===> Epoch 1 Training Complete: Avg. Loss: 0.0542, 19.0476% accuracy
+===> TEST Complete:Avg. Loss: 0.03422061904686792  39.301310043668124% accuracy
+
+===> Epoch 2 Training Complete: Avg. Loss: 0.0290, 32.4176% accuracy
+===> TEST Complete:Avg. Loss: 0.024564413771290202  49.78165938864629% accuracy
+
+===> Epoch 3 Training Complete: Avg. Loss: 0.0223, 40.6593% accuracy
+===> TEST Complete:Avg. Loss: 0.01849068319103841  57.64192139737991% accuracy
+
+===> Epoch 4 Training Complete: Avg. Loss: 0.0177, 51.0989% accuracy
+===> TEST Complete:Avg. Loss: 0.020604198830651826  57.20524017467249% accuracy
+
+===> Epoch 5 Training Complete: Avg. Loss: 0.0154, 55.8608% accuracy
+===> TEST Complete:Avg. Loss: 0.01709514130549184  62.00873362445415% accuracy
+
+===> Epoch 6 Training Complete: Avg. Loss: 0.0142, 58.7912% accuracy
+===> TEST Complete:Avg. Loss: 0.018235699594791592  65.06550218340611% accuracy
+
+===> Epoch 7 Training Complete: Avg. Loss: 0.0131, 60.9890% accuracy
+===> TEST Complete:Avg. Loss: 0.014708454303186515  65.06550218340611% accuracy
+
+===> Epoch 8 Training Complete: Avg. Loss: 0.0132, 60.6227% accuracy
+===> TEST Complete:Avg. Loss: 0.016940091222781558  65.93886462882097% accuracy
+
+===> Epoch 9 Training Complete: Avg. Loss: 0.0120, 60.6227% accuracy
+===> TEST Complete:Avg. Loss: 0.015828345773805833  65.50218340611353% accuracy
+
+===> Epoch 10 Training Complete: Avg. Loss: 0.0117, 64.2857% accuracy
+===> TEST Complete:Avg. Loss: 0.015723979293272412  67.24890829694323% accuracy
+
+===> Epoch 11 Training Complete: Avg. Loss: 0.0108, 65.2015% accuracy
+===> TEST Complete:Avg. Loss: 0.017035738789829714  68.5589519650655% accuracy
+
+===> Epoch 12 Training Complete: Avg. Loss: 0.0107, 63.5531% accuracy
+===> TEST Complete:Avg. Loss: 0.0157266766282505  66.37554585152839% accuracy
+
+===> Epoch 13 Training Complete: Avg. Loss: 0.0099, 67.5824% accuracy
+===> TEST Complete:Avg. Loss: 0.014190630136250422  68.5589519650655% accuracy
+
+===> Epoch 14 Training Complete: Avg. Loss: 0.0109, 64.2857% accuracy
+===> TEST Complete:Avg. Loss: 0.014528567324681529  69.86899563318778% accuracy
+
+===> Epoch 15 Training Complete: Avg. Loss: 0.0096, 67.3993% accuracy
+===> TEST Complete:Avg. Loss: 0.01453442534367586  69.86899563318778% accuracy
+
+===> Epoch 16 Training Complete: Avg. Loss: 0.0086, 71.0623% accuracy
+===> TEST Complete:Avg. Loss: 0.013548901368831766  70.74235807860262% accuracy
+
+===> Epoch 17 Training Complete: Avg. Loss: 0.0088, 68.3150% accuracy
+===> TEST Complete:Avg. Loss: 0.015672707384259535  71.17903930131004% accuracy
+
+===> Epoch 18 Training Complete: Avg. Loss: 0.0086, 69.9634% accuracy
+===> TEST Complete:Avg. Loss: 0.013306744782061413  70.74235807860262% accuracy
+
+===> Epoch 19 Training Complete: Avg. Loss: 0.0077, 69.9634% accuracy
+===> TEST Complete:Avg. Loss: 0.014053430504583079  73.36244541484716% accuracy
+
+===> Epoch 20 Training Complete: Avg. Loss: 0.0078, 71.9780% accuracy
+===> TEST Complete:Avg. Loss: 0.014171582550324243  72.48908296943232% accuracy
+
+===> Epoch 21 Training Complete: Avg. Loss: 0.0071, 72.3443% accuracy
+===> TEST Complete:Avg. Loss: 0.014432146310292441  70.3056768558952% accuracy
+
+===> Epoch 22 Training Complete: Avg. Loss: 0.0072, 69.5971% accuracy
+===> TEST Complete:Avg. Loss: 0.01465601159323906  68.12227074235808% accuracy
+
+===> Epoch 23 Training Complete: Avg. Loss: 0.0067, 71.9780% accuracy
+===> TEST Complete:Avg. Loss: 0.014359590565336162  72.48908296943232% accuracy
+
+===> Epoch 24 Training Complete: Avg. Loss: 0.0065, 73.2601% accuracy
+===> TEST Complete:Avg. Loss: 0.013390597469847778  69.86899563318778% accuracy
+
+===> Epoch 25 Training Complete: Avg. Loss: 0.0062, 73.9927% accuracy
+===> TEST Complete:Avg. Loss: 0.013720046247130838  70.74235807860262% accuracy
+
+===> Epoch 26 Training Complete: Avg. Loss: 0.0068, 72.8938% accuracy
+===> TEST Complete:Avg. Loss: 0.014609330976060752  69.43231441048034% accuracy
+
+===> Epoch 27 Training Complete: Avg. Loss: 0.0066, 71.4286% accuracy
+===> TEST Complete:Avg. Loss: 0.013708288203282603  70.3056768558952% accuracy
+
+===> Epoch 28 Training Complete: Avg. Loss: 0.0059, 75.0916% accuracy
+===> TEST Complete:Avg. Loss: 0.012912622845635331  71.61572052401746% accuracy
+
+===> Epoch 29 Training Complete: Avg. Loss: 0.0049, 76.1905% accuracy
+===> TEST Complete:Avg. Loss: 0.013207842595875263  70.74235807860262% accuracy
+
+===> Epoch 30 Training Complete: Avg. Loss: 0.0060, 75.2747% accuracy
+===> TEST Complete:Avg. Loss: 0.013339812257166567  72.0524017467249% accuracy
+
+===> Epoch 31 Training Complete: Avg. Loss: 0.0059, 75.4579% accuracy
+===> TEST Complete:Avg. Loss: 0.013486186684719447  71.61572052401746% accuracy
+
+===> Epoch 32 Training Complete: Avg. Loss: 0.0061, 74.5421% accuracy
+===> TEST Complete:Avg. Loss: 0.012449514698879472  72.92576419213974% accuracy
+
+===> Epoch 33 Training Complete: Avg. Loss: 0.0053, 74.1758% accuracy
+===> TEST Complete:Avg. Loss: 0.01216529261577746  69.43231441048034% accuracy
+
+===> Epoch 34 Training Complete: Avg. Loss: 0.0060, 75.6410% accuracy
+===> TEST Complete:Avg. Loss: 0.013026715705877748  72.48908296943232% accuracy
+
+===> Epoch 35 Training Complete: Avg. Loss: 0.0049, 79.8535% accuracy
+===> TEST Complete:Avg. Loss: 0.013147773092676854  69.86899563318778% accuracy
+
+===> Epoch 36 Training Complete: Avg. Loss: 0.0056, 74.1758% accuracy
+===> TEST Complete:Avg. Loss: 0.011853142159766164  75.10917030567686% accuracy
+
+===> Epoch 37 Training Complete: Avg. Loss: 0.0041, 78.3883% accuracy
+===> TEST Complete:Avg. Loss: 0.012763743449387879  72.0524017467249% accuracy
+
+===> Epoch 38 Training Complete: Avg. Loss: 0.0047, 79.4872% accuracy
+===> TEST Complete:Avg. Loss: 0.011890863999724388  74.23580786026201% accuracy
+
+===> Epoch 39 Training Complete: Avg. Loss: 0.0047, 76.9231% accuracy
+===> TEST Complete:Avg. Loss: 0.012616953668024006  72.0524017467249% accuracy
+
+===> Epoch 40 Training Complete: Avg. Loss: 0.0044, 78.3883% accuracy
+===> TEST Complete:Avg. Loss: 0.012231810339565935  72.92576419213974% accuracy
+
+===> Epoch 41 Training Complete: Avg. Loss: 0.0043, 77.4725% accuracy
+===> TEST Complete:Avg. Loss: 0.011649716227989772  74.23580786026201% accuracy
+
+===> Epoch 42 Training Complete: Avg. Loss: 0.0036, 80.0366% accuracy
+===> TEST Complete:Avg. Loss: 0.012257056166257324  72.92576419213974% accuracy
+
+===> Epoch 43 Training Complete: Avg. Loss: 0.0046, 78.5714% accuracy
+===> TEST Complete:Avg. Loss: 0.01251028415522185  72.92576419213974% accuracy
+
+===> Epoch 44 Training Complete: Avg. Loss: 0.0033, 77.6557% accuracy
+===> TEST Complete:Avg. Loss: 0.012277806482823759  72.92576419213974% accuracy
+
+===> Epoch 45 Training Complete: Avg. Loss: 0.0039, 78.9377% accuracy
+===> TEST Complete:Avg. Loss: 0.011697752593920148  70.74235807860262% accuracy
+
+===> Epoch 46 Training Complete: Avg. Loss: 0.0036, 79.8535% accuracy
+===> TEST Complete:Avg. Loss: 0.012607572985620335  69.86899563318778% accuracy
+
+===> Epoch 47 Training Complete: Avg. Loss: 0.0039, 80.2198% accuracy
+===> TEST Complete:Avg. Loss: 0.012662927395310896  70.74235807860262% accuracy
+
+===> Epoch 48 Training Complete: Avg. Loss: 0.0031, 81.6850% accuracy
+===> TEST Complete:Avg. Loss: 0.012021961654054707  72.0524017467249% accuracy
+
+===> Epoch 49 Training Complete: Avg. Loss: 0.0035, 82.9670% accuracy
+===> TEST Complete:Avg. Loss: 0.01211492322256853  71.61572052401746% accuracy
+
+===> Epoch 50 Training Complete: Avg. Loss: 0.0028, 82.2344% accuracy
+===> TEST Complete:Avg. Loss: 0.012883652643910769  70.74235807860262% accuracy
+
+===> Epoch 51 Training Complete: Avg. Loss: 0.0036, 80.0366% accuracy
+===> TEST Complete:Avg. Loss: 0.011679021513153767  74.23580786026201% accuracy
+
+===> Epoch 52 Training Complete: Avg. Loss: 0.0032, 80.2198% accuracy
+===> TEST Complete:Avg. Loss: 0.011857425232000392  72.0524017467249% accuracy
+
+===> Epoch 53 Training Complete: Avg. Loss: 0.0032, 80.7692% accuracy
+===> TEST Complete:Avg. Loss: 0.011308580155259576  72.92576419213974% accuracy
+
+===> Epoch 54 Training Complete: Avg. Loss: 0.0029, 80.4029% accuracy
+===> TEST Complete:Avg. Loss: 0.011714765191848936  72.48908296943232% accuracy
+
+===> Epoch 55 Training Complete: Avg. Loss: 0.0030, 81.1355% accuracy
+===> TEST Complete:Avg. Loss: 0.010800896951093757  71.61572052401746% accuracy
+
+===> Epoch 56 Training Complete: Avg. Loss: 0.0027, 82.4176% accuracy
+===> TEST Complete:Avg. Loss: 0.0112467836749194  68.99563318777292% accuracy
+
+===> Epoch 57 Training Complete: Avg. Loss: 0.0026, 81.5018% accuracy
+===> TEST Complete:Avg. Loss: 0.012145069202986258  72.0524017467249% accuracy
+
+===> Epoch 58 Training Complete: Avg. Loss: 0.0027, 83.3333% accuracy
+===> TEST Complete:Avg. Loss: 0.011025165271913183  72.92576419213974% accuracy
+
+===> Epoch 59 Training Complete: Avg. Loss: 0.0026, 82.2344% accuracy
+===> TEST Complete:Avg. Loss: 0.011499987513726127  69.86899563318778% accuracy
+
+===> Epoch 60 Training Complete: Avg. Loss: 0.0020, 84.6154% accuracy
+===> TEST Complete:Avg. Loss: 0.011610819861806673  75.54585152838428% accuracy
+
+Training time: 0:13:43.450145.
